@@ -1,2 +1,3 @@
 # CrazyHip
-Jeong Hyun Woo, private Lib
+드릅게 어렵네
+
