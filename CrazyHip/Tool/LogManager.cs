@@ -96,6 +96,10 @@ namespace CrazyHip.Tool
             WriteWithTime(data, "yyyy-MM-dd HH:mm:ss");
         }
 
-        
+        public void WriteWithTime2(string data)
+        {
+            WriteWithTime(data, "yyyy-MM-dd HH:mm:ss");
+        }
+
     }
 }
