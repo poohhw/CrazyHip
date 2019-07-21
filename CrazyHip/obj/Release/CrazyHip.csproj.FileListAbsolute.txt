@@ -1,0 +1,6 @@
+D:\DEV\CrazyHip\CrazyHip\bin\Release\CrazyHip.dll
+D:\DEV\CrazyHip\CrazyHip\bin\Release\CrazyHip.pdb
+D:\DEV\CrazyHip\CrazyHip\obj\Release\CrazyHip.csprojAssemblyReference.cache
+D:\DEV\CrazyHip\CrazyHip\obj\Release\CrazyHip.csproj.CoreCompileInputs.cache
+D:\DEV\CrazyHip\CrazyHip\obj\Release\CrazyHip.dll
+D:\DEV\CrazyHip\CrazyHip\obj\Release\CrazyHip.pdb

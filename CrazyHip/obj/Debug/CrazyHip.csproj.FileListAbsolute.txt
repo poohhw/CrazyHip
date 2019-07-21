@@ -1,0 +1,12 @@
+\\Iptime_poohhw\hdd1\DEV\CrazyHip\CrazyHip\bin\Debug\CrazyHip.dll
+\\Iptime_poohhw\hdd1\DEV\CrazyHip\CrazyHip\bin\Debug\CrazyHip.pdb
+\\Iptime_poohhw\hdd1\DEV\CrazyHip\CrazyHip\obj\Debug\CrazyHip.csprojResolveAssemblyReference.cache
+\\Iptime_poohhw\hdd1\DEV\CrazyHip\CrazyHip\obj\Debug\CrazyHip.csproj.CoreCompileInputs.cache
+\\Iptime_poohhw\hdd1\DEV\CrazyHip\CrazyHip\obj\Debug\CrazyHip.dll
+\\Iptime_poohhw\hdd1\DEV\CrazyHip\CrazyHip\obj\Debug\CrazyHip.pdb
+D:\DEV\CrazyHip\CrazyHip\bin\Debug\CrazyHip.dll
+D:\DEV\CrazyHip\CrazyHip\bin\Debug\CrazyHip.pdb
+D:\DEV\CrazyHip\CrazyHip\obj\Debug\CrazyHip.csprojAssemblyReference.cache
+D:\DEV\CrazyHip\CrazyHip\obj\Debug\CrazyHip.csproj.CoreCompileInputs.cache
+D:\DEV\CrazyHip\CrazyHip\obj\Debug\CrazyHip.dll
+D:\DEV\CrazyHip\CrazyHip\obj\Debug\CrazyHip.pdb
